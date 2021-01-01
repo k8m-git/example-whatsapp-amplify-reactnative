@@ -16,7 +16,7 @@ Vadim Savinさんの「Build a **Realtime Chat App** in React Native (tutorial f
 - [React Native](https://reactnative.dev/)  
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/ja/)  
-- [Amplify](https://aws.amazon.com/jp/amplify/)  
+- [Amplify](https://docs.amplify.aws/start/q/integration/react-native)  
 
 ## 環境構築
 *動画内で環境構築の説明は行わない
