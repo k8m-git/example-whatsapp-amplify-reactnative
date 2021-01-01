@@ -19,16 +19,14 @@ Vadim Savinさんの「Build a **Realtime Chat App** in React Native (tutorial f
 - [Discode](https://discord.gg/VpURUN2)
 
 ## 使用している技術
-
-### メイン
 - [React](https://ja.reactjs.org/)
 - [React Native](https://reactnative.dev/)  
+- [React Navigation](https://reactnavigation.org/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/ja/)  
 - [Amplify](https://docs.amplify.aws/start/q/integration/react-native)  
-
-### サブ
-- [React Native](https://reactnavigation.org/)
+- [AppSync](https://docs.aws.amazon.com/ja_jp/appsync/latest/devguide/welcome.html)
+- [GraphQL](https://graphql.org/)
 - [Moment.js](https://momentjs.com/)
 
 ## 環境構築
