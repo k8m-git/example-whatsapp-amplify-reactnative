@@ -38,11 +38,9 @@ function App() {
   // run this snippet only when App is first mounted
   useEffect(() => {
     const fetchUser = async () => {
-      // get authenticate user from Auth
       const userInfo = await Auth.currentAuthenticatedUser({ bypassCache: true });
 
       if (userInfo) {
-        // get the user from Backend with the user SUB from Auth
         const userData = await API.graphql(
           graphqlOperation(
             getUser,
@@ -54,8 +52,6 @@ function App() {
           console.log("User is already registered in database");
           return;
         }
-
-        // if there is no user in DB with the id, then create one
 
         const newUser = {
           id: userInfo.attributes.sub,
