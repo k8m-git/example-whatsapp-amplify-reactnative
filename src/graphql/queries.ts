@@ -9,7 +9,6 @@ export const getUser = /* GraphQL */ `
       name
       imageUri
       status
-      test
       createdAt
       updatedAt
     }
@@ -27,7 +26,6 @@ export const listUsers = /* GraphQL */ `
         name
         imageUri
         status
-        test
         createdAt
         updatedAt
       }

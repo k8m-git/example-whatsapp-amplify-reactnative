@@ -12,7 +12,6 @@ export const createUser = /* GraphQL */ `
       name
       imageUri
       status
-      test
       createdAt
       updatedAt
     }
@@ -28,7 +27,6 @@ export const updateUser = /* GraphQL */ `
       name
       imageUri
       status
-      test
       createdAt
       updatedAt
     }
@@ -44,7 +42,6 @@ export const deleteUser = /* GraphQL */ `
       name
       imageUri
       status
-      test
       createdAt
       updatedAt
     }
