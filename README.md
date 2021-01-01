@@ -4,8 +4,9 @@
 Vadim Savinさんの「Build a **Realtime Chat App** in React Native (tutorial for begginers)」  
 
 ### 動画
-- [フロントエンド編](https://www.youtube.com/watch?v=EvSUJ5lUcBw&t=28s)  
-- [バックエンド編](https://www.youtube.com/watch?v=HdLbavvfflQ)
+- [フロントエンド](https://www.youtube.com/watch?v=EvSUJ5lUcBw&t=28s)  
+- [バックエンド 前編](https://www.youtube.com/watch?v=HdLbavvfflQ)
+- [バックエンド 後編](https://www.youtube.com/watch?v=Uq_vkUFnrss)
 
 ### 補足
 - [Source code](https://github.com/Savinvadim1312/WhatsappClone)
